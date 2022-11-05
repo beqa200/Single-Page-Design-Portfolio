@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Code](https://your-solution-url.com)
-- Live Site URL: [GitHub Live](https://your-live-site-url.com)
+- Solution URL: [GitHub Code](https://github.com/beqa200/Single-Page-Design-Portfolio)
+- Live Site URL: [GitHub Live](https://beqa200.github.io/Single-Page-Design-Portfolio/)
 
 ## My process
 
