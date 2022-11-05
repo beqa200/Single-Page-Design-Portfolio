@@ -34,7 +34,7 @@ Users should be able to:
 
 ### What I learned
 
-Developed my skill at Grids and also learned how to make SlideShow.
+Developed my skills at Tailwind CSS and also learned how to make SlideShow.
 
 
 ## Author
